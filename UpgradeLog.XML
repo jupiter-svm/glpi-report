@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GLPI Report">
+</Property><Property Name="Файл решения" Value="C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report.sln">
+</Property><Property Name="Date" Value="26 октября 2012 г.">
+</Property><Property Name="Time" Value="10:45:49">
+</Property></Properties><Event ErrorLevel="0" Project="Excel_test" Source="..\Excel_test\Excel_test\Excel_test.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Excel_test" Source="..\Excel_test\Excel_test\Excel_test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Excel_test" Source="..\Excel_test\Excel_test\Excel_test.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

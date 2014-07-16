@@ -1,0 +1,30 @@
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\bin\Debug\SettingsForm.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\bin\Debug\SettingsForm.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\bin\Debug\SettingsClass.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\bin\Debug\SettingsClass.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\obj\Debug\SettingsForm.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\obj\Debug\SettingsForm.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\obj\Debug\SettingsForm.MainSettingsForm.resources
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\bin\Debug\SettingsForm.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\bin\Debug\SettingsForm.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\bin\Debug\SettingsClass.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\bin\Debug\SettingsClass.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\obj\Debug\SettingsForm.MainSettingsForm.resources
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\obj\Debug\SettingsForm.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\obj\Debug\SettingsForm.pdb
+G:\GLPI Report\GLPI Report\SettingsForm\bin\Debug\SettingsForm.dll
+G:\GLPI Report\GLPI Report\SettingsForm\bin\Debug\SettingsForm.pdb
+G:\GLPI Report\GLPI Report\SettingsForm\bin\Debug\SettingsClass.dll
+G:\GLPI Report\GLPI Report\SettingsForm\bin\Debug\SettingsClass.pdb
+G:\GLPI Report\GLPI Report\SettingsForm\obj\Debug\ResolveAssemblyReference.cache
+G:\GLPI Report\GLPI Report\SettingsForm\obj\Debug\SettingsForm.MainSettingsForm.resources
+G:\GLPI Report\GLPI Report\SettingsForm\obj\Debug\GenerateResource.read.1.tlog
+G:\GLPI Report\GLPI Report\SettingsForm\obj\Debug\GenerateResource.write.1.tlog
+G:\GLPI Report\GLPI Report\SettingsForm\obj\Debug\SettingsForm.dll
+G:\GLPI Report\GLPI Report\SettingsForm\obj\Debug\SettingsForm.pdb

@@ -1,0 +1,20 @@
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\bin\Release\SettingsForm.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\obj\Release\SettingsForm.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\obj\Release\SettingsForm.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\bin\Release\SettingsClass.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\bin\Release\SettingsClass.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\bin\Release\SettingsForm.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsForm\obj\Release\SettingsForm.MainSettingsForm.resources
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\bin\Release\SettingsForm.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\bin\Release\SettingsForm.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\bin\Release\SettingsClass.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\bin\Release\SettingsClass.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\obj\Release\SettingsForm.MainSettingsForm.resources
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\obj\Release\GenerateResource.read.1.tlog
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\obj\Release\GenerateResource.write.1.tlog
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\obj\Release\SettingsForm.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsForm\obj\Release\SettingsForm.pdb

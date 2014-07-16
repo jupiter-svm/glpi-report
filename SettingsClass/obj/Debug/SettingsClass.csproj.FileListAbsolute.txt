@@ -1,0 +1,15 @@
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsClass\bin\Debug\SettingsClass.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsClass\bin\Debug\SettingsClass.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsClass\obj\Debug\SettingsClass.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsClass\obj\Debug\SettingsClass.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsClass\bin\Debug\SettingsClass.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsClass\bin\Debug\SettingsClass.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsClass\obj\Debug\SettingsClass.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsClass\obj\Debug\SettingsClass.pdb
+G:\GLPI Report\GLPI Report\SettingsClass\bin\Debug\SettingsClass.dll
+G:\GLPI Report\GLPI Report\SettingsClass\bin\Debug\SettingsClass.pdb
+G:\GLPI Report\GLPI Report\SettingsClass\obj\Debug\ResolveAssemblyReference.cache
+G:\GLPI Report\GLPI Report\SettingsClass\obj\Debug\SettingsClass.dll
+G:\GLPI Report\GLPI Report\SettingsClass\obj\Debug\SettingsClass.pdb

@@ -1,0 +1,10 @@
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsClass\bin\Release\SettingsClass.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsClass\bin\Release\SettingsClass.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsClass\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsClass\obj\Release\SettingsClass.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\SettingsClass\obj\Release\SettingsClass.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsClass\bin\Release\SettingsClass.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsClass\bin\Release\SettingsClass.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsClass\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsClass\obj\Release\SettingsClass.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\SettingsClass\obj\Release\SettingsClass.pdb

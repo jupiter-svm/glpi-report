@@ -1,0 +1,54 @@
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\CustomQuery.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\CustomQuery.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\GLPI Report.exe
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\mysql.data.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\mysql.data.entity.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\mysql.visualstudio.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\mysql.web.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\SettingsClass.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\SettingsForm.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\GLPI Report.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\SettingsClass.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\SettingsForm.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\obj\Debug\GLPI_Report.mainCQForm.resources
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\obj\Debug\CustomQuery.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\CustomQuery\obj\Debug\CustomQuery.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\CustomQuery.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\CustomQuery.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\GLPI Report.exe
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\mysql.data.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\mysql.data.entity.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\mysql.visualstudio.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\mysql.web.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\SettingsClass.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\SettingsForm.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\GLPI Report.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\SettingsClass.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\bin\Debug\SettingsForm.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\obj\Debug\GLPI_Report.mainCQForm.resources
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\obj\Debug\CustomQuery.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\CustomQuery\obj\Debug\CustomQuery.pdb
+G:\GLPI Report\GLPI Report\CustomQuery\bin\Debug\CustomQuery.dll
+G:\GLPI Report\GLPI Report\CustomQuery\bin\Debug\CustomQuery.pdb
+G:\GLPI Report\GLPI Report\CustomQuery\bin\Debug\GLPI Report.exe
+G:\GLPI Report\GLPI Report\CustomQuery\bin\Debug\mysql.data.dll
+G:\GLPI Report\GLPI Report\CustomQuery\bin\Debug\mysql.data.entity.dll
+G:\GLPI Report\GLPI Report\CustomQuery\bin\Debug\mysql.visualstudio.dll
+G:\GLPI Report\GLPI Report\CustomQuery\bin\Debug\mysql.web.dll
+G:\GLPI Report\GLPI Report\CustomQuery\bin\Debug\SettingsClass.dll
+G:\GLPI Report\GLPI Report\CustomQuery\bin\Debug\SettingsForm.dll
+G:\GLPI Report\GLPI Report\CustomQuery\bin\Debug\GLPI Report.pdb
+G:\GLPI Report\GLPI Report\CustomQuery\bin\Debug\SettingsClass.pdb
+G:\GLPI Report\GLPI Report\CustomQuery\bin\Debug\SettingsForm.pdb
+G:\GLPI Report\GLPI Report\CustomQuery\obj\Debug\ResolveAssemblyReference.cache
+G:\GLPI Report\GLPI Report\CustomQuery\obj\Debug\GLPI_Report.mainCQForm.resources
+G:\GLPI Report\GLPI Report\CustomQuery\obj\Debug\GenerateResource.read.1.tlog
+G:\GLPI Report\GLPI Report\CustomQuery\obj\Debug\GenerateResource.write.1.tlog
+G:\GLPI Report\GLPI Report\CustomQuery\obj\Debug\CustomQuery.dll
+G:\GLPI Report\GLPI Report\CustomQuery\obj\Debug\CustomQuery.pdb

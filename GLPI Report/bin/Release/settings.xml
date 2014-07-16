@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Connection>
+    <Host Value="10.164.30.34" />
+    <Login Value="glpidb" />
+    <Password Value="glpidb" />
+    <AutoEnter Value="True" />
+  </Connection>
+  <Filter>
+    <DateAfter Value="True" />
+    <DateBefore Value="True" />
+    <Status Value="Закрыты" />
+    <UseStatus Value="False" />
+    <Priority Value="Средний" />
+    <PriorityStatus Value="False" />
+  </Filter>
+  <Total>
+    <Priority Value="True" />
+    <Status Value="True" />
+    <Category Value="True" />
+    <Filial Value="False" />
+    <Podr Value="True" />
+    <Address Value="False" />
+    <StartDate Value="True" />
+    <StartTime Value="True" />
+    <TimeToUser Value="True" />
+    <ToUser Value="True" />
+    <DateOfResolve Value="True" />
+    <ResolveTime Value="True" />
+    <RealTime Value="True" />
+    <Plan Value="True" />
+    <PlanSLA Value="True" />
+    <Desc Value="True" />
+    <ResultActions Value="True" />
+  </Total>
+  <OutOfTime>
+    <Reason Value="True" />
+    <Priority Value="True" />
+    <Status Value="True" />
+    <Category Value="True" />
+    <Filial Value="False" />
+    <Podr Value="True" />
+    <Address Value="False" />
+    <StartDate Value="True" />
+    <StartTime Value="True" />
+    <TimeToUser Value="True" />
+    <ToUser Value="True" />
+    <DateOfResolve Value="True" />
+    <ResolveTime Value="True" />
+    <RealTime Value="True" />
+    <Plan Value="True" />
+    <PlanSLA Value="True" />
+    <Desc Value="True" />
+    <ResultActions Value="True" />
+  </OutOfTime>
+</Settings>

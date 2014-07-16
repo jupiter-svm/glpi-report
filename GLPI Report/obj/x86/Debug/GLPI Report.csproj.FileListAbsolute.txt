@@ -1,0 +1,76 @@
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\GLPI Report.exe
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\GLPI Report.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\mysql.data.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\mysql.data.entity.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.Properties.Resources.resources
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI Report.exe
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI Report.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.loginForm.resources
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.mainForm.resources
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI Report.csproj.ResolveComReference.cache
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\GLPI Report.exe.config
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\mysql.visualstudio.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\mysql.web.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\SettingsForm.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\SettingsClass.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\SettingsClass.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\SettingsForm.pdb
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\CustomQuery.dll
+C:\Documents and Settings\NV00ChkvAV\мои документы\visual studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\CustomQuery.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\GLPI Report.exe.config
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\GLPI Report.exe
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\GLPI Report.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\CustomQuery.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\mysql.data.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\mysql.data.entity.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\mysql.visualstudio.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\mysql.web.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\SettingsClass.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\SettingsForm.dll
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\SettingsClass.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\SettingsForm.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\bin\Debug\CustomQuery.pdb
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI Report.csproj.ResolveComReference.cache
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.loginForm.resources
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.mainForm.resources
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.Properties.Resources.resources
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.systemsReportForm.resources
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.totalReport.resources
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.usersReportForm.resources
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI Report.exe
+C:\Users\nv00chkvav\Documents\Visual Studio 2010\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI Report.pdb
+G:\GLPI Report\GLPI Report\GLPI Report\bin\Debug\GLPI Report.exe.config
+G:\GLPI Report\GLPI Report\GLPI Report\obj\x86\Debug\GLPI Report.csproj.ResolveComReference.cache
+G:\GLPI Report\GLPI Report\GLPI Report\obj\x86\Debug\GLPI Report.exe
+G:\GLPI Report\GLPI Report\GLPI Report\obj\x86\Debug\GLPI Report.pdb
+G:\GLPI Report\GLPI Report\GLPI Report\bin\Debug\GLPI Report.exe
+G:\GLPI Report\GLPI Report\GLPI Report\bin\Debug\GLPI Report.pdb
+G:\GLPI Report\GLPI Report\GLPI Report\bin\Debug\CustomQuery.dll
+G:\GLPI Report\GLPI Report\GLPI Report\bin\Debug\mysql.data.dll
+G:\GLPI Report\GLPI Report\GLPI Report\bin\Debug\mysql.data.entity.dll
+G:\GLPI Report\GLPI Report\GLPI Report\bin\Debug\mysql.visualstudio.dll
+G:\GLPI Report\GLPI Report\GLPI Report\bin\Debug\mysql.web.dll
+G:\GLPI Report\GLPI Report\GLPI Report\bin\Debug\SettingsClass.dll
+G:\GLPI Report\GLPI Report\GLPI Report\bin\Debug\SettingsForm.dll
+G:\GLPI Report\GLPI Report\GLPI Report\bin\Debug\SettingsClass.pdb
+G:\GLPI Report\GLPI Report\GLPI Report\bin\Debug\SettingsForm.pdb
+G:\GLPI Report\GLPI Report\GLPI Report\bin\Debug\CustomQuery.pdb
+G:\GLPI Report\GLPI Report\GLPI Report\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\GLPI Report\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.loginForm.resources
+G:\GLPI Report\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.mainForm.resources
+G:\GLPI Report\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.Properties.Resources.resources
+G:\GLPI Report\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.systemsReportForm.resources
+G:\GLPI Report\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.totalReport.resources
+G:\GLPI Report\GLPI Report\GLPI Report\obj\x86\Debug\GLPI_Report.usersReportForm.resources
+G:\GLPI Report\GLPI Report\GLPI Report\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\GLPI Report\GLPI Report\GLPI Report\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrey.Chikov\Documents\Visual Studio 2013\Projects\GLPI Report\GLPI Report\bin\Debug\GLPI Report.exe.config
+C:\Users\Andrey.Chikov\Documents\Visual Studio 2013\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI Report.csproj.ResolveComReference.cache
+C:\Users\Andrey.Chikov\Documents\Visual Studio 2013\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI Report.exe
+C:\Users\Andrey.Chikov\Documents\Visual Studio 2013\Projects\GLPI Report\GLPI Report\obj\x86\Debug\GLPI Report.pdb
